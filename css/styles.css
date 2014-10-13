@@ -1,0 +1,20 @@
+body{
+	background: #8099D9 url("../img/sos.png")  fixed
+}
+
+ul {
+	margin-top: 50px;
+}
+
+ul li {
+	text-align: left;
+	opacity: 1.0;
+}
+
+#play{
+	display: block;
+	margin-left: 128px;
+	height: 40px;
+	width: 100px;
+}
+
